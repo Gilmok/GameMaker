@@ -134,7 +134,7 @@ $@: Insert a picture to take up the entire cell.
 ^-n: Go up n rows.  If n is ~, do up rows until you reach a row without data in the current column.
 
 $x,^y: Move to column x, row y.
-$c or ^c: Output the data in the current column and row.
+$c or ^c: Output the data in the current column and row.  The c can be used as a replacement for n in any of the above operations as a shortcut to mean current column or current row.  (Example: $?c tests the current column and row for data)
 
 Formatting instructions
 =======================

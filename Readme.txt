@@ -189,3 +189,11 @@ Picture insertion instructions are separated by a * and processed until a ** or 
 *hn: Set the picture height to n.
 *>: Insert the next picture right next to the last inserted one.
 *=: Insert the next picture right below the last inserted one.
+
+FAQ
+===
+Q:Why is play money separate from cards?  Why not just print both on the same sheet?
+A:You want to use different paper for play money than you do for cards.  Play money is printed on normal paper while cards are printed on card stock.  By keeping the sheets separate it makes it easier to distinguish that.
+
+Q:Why isn't my picture isn't being saved to the template?
+A:You need to make sure that the entire picture is within the bounds of the template.  You should also double check to see that the template contains the entire area.

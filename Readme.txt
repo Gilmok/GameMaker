@@ -64,7 +64,7 @@ See the section on the data row metalanguage to better understand how the data r
 A19-A20. Output columns, Horizontal pad cells, Vertical pad cells
 In cell A20, enter the number of output columns, horizontal pad cells, and vertical pad cells used when printing cards.  These should be separated by a comma with no spaces.
 
-The money drop-down list contains a list of saved money templates.  To load a saved template, simply select it on the drop-down list.
+The card drop-down list contains a list of saved card templates.  To load a saved template, simply select it on the drop-down list.
 
 Pressing the Save button saves a card template to Sheet 6 for later retrieval.
 

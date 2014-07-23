@@ -40,6 +40,8 @@ In cell A9, put the number of rows and columns of play money you would like to p
 
 The money drop-down list contains a list of saved money templates.  To load a saved template, simply select it on the drop-down list.
 
+Pressing the New button creates a new money template using the new template Wizard.
+
 Pressing the Save button saves a money template to Sheet 5 for later retrieval.
 
 Pressing the Delete button removes a money template from the list of saved money templates.
@@ -65,6 +67,8 @@ A19-A20. Output columns, Horizontal pad cells, Vertical pad cells
 In cell A20, enter the number of output columns, horizontal pad cells, and vertical pad cells used when printing cards.  These should be separated by a comma with no spaces.
 
 The card drop-down list contains a list of saved card templates.  To load a saved template, simply select it on the drop-down list.
+
+Pressing the New button creates a new card template using the new template Wizard.
 
 Pressing the Save button saves a card template to Sheet 6 for later retrieval.
 
